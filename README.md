@@ -30,14 +30,6 @@ shell 2 - Alex Lin, Paul Jeong
         printprompt_err() and printf_err(), which error checks printf and 
         printing the prompt. 
 
-    bugs:
-
-        there are no known bugs at the momment.
-
-    extra features:
-
-        there were no extra features implemented.
-
     how to compile:
 
         to compile, cd into the shell2 directory.  
@@ -65,11 +57,6 @@ shell 2 - Alex Lin, Paul Jeong
         
         type exit or CTRL-\ to quit the shell
 
-    distribution of work:
 
-        the work was evenly distributed between Alex and Paul.  most of the work 
-        was completed together, with one partner typing and the other helping 
-        with design and looking for bugs, coming up with solutions, etc. we used
-        pair programming.
 
        
