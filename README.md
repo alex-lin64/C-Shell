@@ -1,8 +1,4 @@
-# shell-2-alex-lin64-pauljeong333
-alex-lin64-pauljeong333 team's shell-2 repo
-
-shell 2 - Alex Lin, Paul Jeong
-
+# C Shell
 
     structure of shell 2:
         
